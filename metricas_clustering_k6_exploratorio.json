@@ -1,0 +1,15 @@
+{
+  "k": 6,
+  "n_complexos": 900,
+  "silhouette": 0.2024,
+  "davies_bouldin": 1.2741,
+  "calinski_harabasz": 166.72,
+  "distribuicao_clusters": {
+    "1": 422,
+    "0": 395,
+    "3": 46,
+    "4": 30,
+    "2": 6,
+    "5": 1
+  }
+}
